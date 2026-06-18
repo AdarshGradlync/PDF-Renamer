@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Spyder settings
+.spyproject/
+
+# Test files
+TestPDFs/
+
+# Generated outputs
+sample_output/
+
+# Excel logs
+*.xlsx
+
+# Windows files
+Thumbs.db
